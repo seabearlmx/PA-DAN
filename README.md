@@ -1,23 +1,8 @@
 # PA-DAN
 # XXXXXXXXXXXX
 
-
-[xxx](https://arxiv.org/abs/xxx)  
-
-If you find this code useful for your research, please cite our [paper](https://arxiv.org/abs/1811.12833):
-
-```
-@inproceedings{xx,
-  title={xxx},
-  author={xxx},
-  booktitle={xxx},
-  year={xxx}
-}
-```
-
 ## Abstract
 xxx.
-
 
 ## Preparation
 
