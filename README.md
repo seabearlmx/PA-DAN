@@ -1,4 +1,4 @@
-# PA-DAN
+# PDA
 # XXXXXXXXXXXX
 
 ## Abstract
@@ -14,7 +14,7 @@ xxx.
 ### Installation
 0. Clone the repo:
 ```bash
-$ git clone https://github.com/seabearlmx/PA-DAN
+$ git clone https://github.com/seabearlmx/PDA
 $ cd PA-DAN
 ```
 
@@ -40,10 +40,10 @@ By default, the datasets are put in ```<root_dir>/DADatasets```.
 ```
 
 ### Pre-trained models
-Pre-trained models can be downloaded [here](https://github.com/seabearlmx/PA-DAN/releases) and put in ```<root_dir>/padan/pretrained_models```
+Pre-trained models can be downloaded [here](https://github.com/seabearlmx/PDA/releases) and put in ```<root_dir>/padan/pretrained_models```
 
 ## Running the code
-Please follow the [here](https://github.com/seabearlmx/PA-DAN/releases) to download model.
+Please follow the [here](https://github.com/seabearlmx/PDA/releases) to download model.
 
 For evaluation, execute:
 ```bash
@@ -68,7 +68,7 @@ $ python train.py --cfg ./configs/padan.yml
 ```
 
 ### Testing
-To test PA-DAN:
+To test PDA:
 ```bash
 $ cd <root_dir>/padan
 $ python test.py --cfg ./configs/padan.yml
@@ -78,4 +78,4 @@ $ python test.py --cfg ./configs/padan.yml
 This codebase is heavily borrowed from [AdaptSegNet](https://github.com/wasidennis/AdaptSegNet) and [AdvEnt](https://github.com/valeoai/ADVENT).
 
 ## License
-PA-DAN is released under the [MIT license](./LICENSE).
+PDA is released under the [MIT license](./LICENSE).
