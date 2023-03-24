@@ -80,5 +80,5 @@ This codebase is heavily borrowed from [AdaptSegNet](https://github.com/wasidenn
 ## License
 PDA is released under the [MIT license](./LICENSE).
 
-##Update status
+## Update status
 The code (V1) is uploaded. (2021-07-19)
