@@ -1,4 +1,4 @@
-# PDA: Progressive Domain Adaptation for Semantic Segmentation (major revision in TIP)
+## PDA: Progressive Domain Adaptation for Semantic Segmentation (major revision in TIP)
 Muxin Liao, Shishun Tian, Yuhang Zhang, Guoguang Hua, Wenbin Zou, and Xia Li
 
 ## Abstract
