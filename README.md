@@ -1,4 +1,4 @@
-## PDA: Progressive Domain Adaptation for Semantic Segmentation (major revision in TCSVT)
+## PDA: Progressive Domain Adaptation for Semantic Segmentation
 Muxin Liao, Shishun Tian, Yuhang Zhang, Guoguang Hua, Wenbin Zou, and Xia Li
 
 ## Abstract
